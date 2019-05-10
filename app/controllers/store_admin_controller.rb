@@ -3,5 +3,8 @@ class StoreAdminController < ApplicationController
   end
   def invoice
   end
+  def orders
+    render :layout => 
+  end
   
 end
