@@ -1,5 +1,5 @@
 class StoreAdminController < ApplicationController
-  layout "static"
+  layout "admin"
   def home
   end
   def invoice
